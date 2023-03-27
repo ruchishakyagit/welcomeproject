@@ -1,14 +1,11 @@
-# welcomeproject
-# DevOps_project-1
-# DevOps_project-1
 <!DOCTYPE html>
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>Installing & Deploying website using Apache on AWS EC2</title>
+    <title>My DevOps Project</title>
     <style>
       body {
-        background-color: Brown;
+        background-color: black;
         color: white;
         font-family: Arial, sans-serif;
       }
@@ -56,11 +53,10 @@
     </style>
   </head>
   <body>
-    <h1>Installing & Deploying website using Apache on AWS EC2</h1>
-    <img src="https://media.giphy.com/media/l3vR9qcfmt71eLSDK/giphy.gif" alt="Animated gif of a rocket launching">
+    <h1>My DevOps Project</h1>
+    <img src="https://media.giphy.com/media/DpNrB4a210Qg0/giphy.gif" alt="Animated gif of a rocket launching">
     <p>I successfully launched an EC2 instance, SSH'd into it, installed and set up Apache, and deployed this website!</p>
     <button onclick="window.location.href='https://www.linkedin.com/sharing/share-offsite/?url='+encodeURIComponent(window.location.href)">Share on LinkedIn</button>
-       <a href="https://www.youtube.com/@cloudchamp">Subscribe to my YouTube channel</a>
+    <a href="https://www.youtube.com/@cloudchamp">Subscribe to my YouTube channel</a>
   </body>
 </html>
-
