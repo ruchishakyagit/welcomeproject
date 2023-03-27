@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>My DevOps Project</title>
+    <title>Welcome Project</title>
     <style>
       body {
         background-color: black;
@@ -53,7 +53,7 @@
     </style>
   </head>
   <body>
-    <h1>My DevOps Project</h1>
+    <h1>Welcome Project</h1>
     <img src="https://media.giphy.com/media/l3vR9qcfmt71eLSDK/giphy.gif" alt="Animated gif of a rocket launching">
     <p>I successfully launched an EC2 instance, SSH'd into it, installed and set up Apache, and deployed this website!</p>
     <p>Do visit my profile on LinkedIn</p>
