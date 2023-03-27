@@ -56,7 +56,6 @@
     <h1>My DevOps Project</h1>
     <img src="https://media.giphy.com/media/l3vR9qcfmt71eLSDK/giphy.gif" alt="Animated gif of a rocket launching">
     <p>I successfully launched an EC2 instance, SSH'd into it, installed and set up Apache, and deployed this website!</p>
-    <button onclick="window.location.href='https://www.linkedin.com/sharing/share-offsite/?url='+encodeURIComponent(window.location.href)">Share on LinkedIn</button>
     <a href="ruchi-shakya-devopsengineer">My LinkedIn Profile</a>
     
   </body>
