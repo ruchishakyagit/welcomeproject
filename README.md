@@ -56,6 +56,7 @@
     <h1>My DevOps Project</h1>
     <img src="https://media.giphy.com/media/l3vR9qcfmt71eLSDK/giphy.gif" alt="Animated gif of a rocket launching">
     <p>I successfully launched an EC2 instance, SSH'd into it, installed and set up Apache, and deployed this website!</p>
+    <p>Do visit my profile on LinkedIn</p>
     <a href="ruchi-shakya-devopsengineer">My LinkedIn Profile</a>
     
   </body>
