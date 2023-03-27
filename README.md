@@ -58,7 +58,7 @@
     <p>I successfully launched an EC2 instance, SSH'd into it, installed and set up Apache, and deployed this website!</p>
     <p>Do visit my profile on LinkedIn</p>
     <a href="ruchi-shakya-devopsengineer">My LinkedIn Profile</a>
-    <button onclick="window.location.href='https://www.linkedin.com/sharing/share">Share on LinkedIn</a>
+    <a href="window.location.href='https://www.linkedin.com/sharing/share">Share on LinkedIn</a>
     
   </body>
 </html>
